@@ -17,6 +17,7 @@ This repository analyzes and categorizes issues from open source projects to ide
 - **[Strimzi Kafka Operator](good-starter-issues-strimzi.md)** - Issues from the core Strimzi Kafka operator project
 - **[Strimzi Access Operator](good-starter-issues-access-operator.md)** - Issues from the Strimzi Access operator
 - **[Strimzi Kafka Bridge](good-starter-issues-kafka-bridge.md)** - Issues from the HTTP bridge for Apache Kafka
+- **[Strimzi Drain Cleaner](good-starter-issues-drain-cleaner.md)** - Issues from the Strimzi Drain Cleaner project
 
 ### Kroxylicious
 
@@ -27,10 +28,15 @@ This repository analyzes and categorizes issues from open source projects to ide
 ### StreamsHub
 
 - **[StreamsHub Console](good-starter-issues-streamshub-console.md)** - Issues from the StreamsHub console project
+- **[Developer Quickstart](good-starter-issues-developer-quickstart.md)** - Issues from the StreamsHub developer quickstart project
 
 ### Index
 
 - **[Issue Index](good-starter-issues-index.md)** - Cross-project overview and index
+
+### Activity Reports
+
+- **[7-Day Activity Summary](activity-summary-7day.md)** - Recent pull requests, issues, and releases across all projects
 
 ## How to Use
 
